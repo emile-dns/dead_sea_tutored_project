@@ -1,2 +1,3 @@
-# dead_sea_tutored_project
-Codes used for the tutored project
+# Modelling of the elastic deformation due to the Dead Sea water mass loss and comparison with geodetic data
+
+This repository contains the codes used for the tutored project of Emile DENISE and Dingyan LI, under the supervision of Manon DALAISON and Kristel CHANARD, as part of their M2 in Geophysics at IPGP. These codes are used to model the elastic surface deformation field due to hydrological unloading on the Dead Sea, and to compare it with InSAR and GNSS observations. This repository contains a environment.yaml file, which can be used to recreate a conda environment for executing the codes. Data are not included. The figures and the project report are included.
