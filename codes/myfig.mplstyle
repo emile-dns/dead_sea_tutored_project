@@ -1,0 +1,29 @@
+font.family         : Open sans
+text.color          : dimgrey
+axes.edgecolor      : dimgrey
+axes.titlesize      : large
+axes.titleweight    : bold
+figure.titlesize    : large
+figure.titleweight  : bold
+axes.labelcolor     : dimgrey
+axes.labelweight    : bold
+axes.labelsize      : large
+axes.spines.top     : False
+axes.spines.right   : False
+axes.prop_cycle     : cycler('color', ['348ABD', 'A60628', '7A68A6', '467821', 'D55E00', 'CC79A7', '56B4E9', '009E73', 'F0E442', '0072B2'])
+xtick.minor.visible : True
+xtick.major.size    : 4
+xtick.minor.size    : 2
+xtick.color         : dimgrey
+xtick.labelsize     : medium
+xtick.direction     : in
+ytick.minor.visible : True
+ytick.major.size    : 4
+ytick.minor.size    : 2
+ytick.color         : dimgrey
+ytick.labelsize     : medium
+ytick.direction     : in
+legend.edgecolor    : dimgrey
+legend.facecolor    : inherit
+savefig.bbox        : tight
+savefig.pad_inches  : 0.1
